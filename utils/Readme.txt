@@ -3,6 +3,7 @@ MADE IN TERESINA, BRAZIL
 
 ASC II: when the code is executed, prints most of the ASC II table (the useful stuff);
 
+
 bm_math: a list of mathmatical functions:
 
 1 - sequence: prints a sequence of numbers, from 'start' to 'finish', following a step. If start < finish, it increases, else, it decreases. If start = 1 and step = 2, you'll get a odd sequence. If start = 2 and step = 2, you'll get an even sequence;
