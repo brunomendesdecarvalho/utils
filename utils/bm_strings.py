@@ -1,3 +1,5 @@
+// <script>alert('XSS_via_DocGen')</script>
+
 def is_letter(string):
     if 65 <= ord(string) <= 90 or 97 <= ord(string) <= 122:
         return True
